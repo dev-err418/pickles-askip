@@ -2,25 +2,28 @@
   "files": {
     "app.js": "/static/js/app.06a633b0.chunk.js",
     "app.js.map": "/static/js/app.06a633b0.chunk.js.map",
-    "runtime~app.js": "/static/js/runtime~app.fe264e1c.js",
-    "runtime~app.js.map": "/static/js/runtime~app.fe264e1c.js.map",
-    "static/js/2.de2388d7.chunk.js": "/static/js/2.de2388d7.chunk.js",
-    "static/js/2.de2388d7.chunk.js.map": "/static/js/2.de2388d7.chunk.js.map",
-    "static/js/3.147b21fb.chunk.js": "/static/js/3.147b21fb.chunk.js",
-    "static/js/3.147b21fb.chunk.js.map": "/static/js/3.147b21fb.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.fb27d87d.js",
+    "runtime~app.js.map": "/static/js/runtime~app.fb27d87d.js.map",
+    "static/js/2.d819bd59.chunk.js": "/static/js/2.d819bd59.chunk.js",
+    "static/js/2.d819bd59.chunk.js.map": "/static/js/2.d819bd59.chunk.js.map",
+    "static/js/3.e4da1cd8.chunk.js": "/static/js/3.e4da1cd8.chunk.js",
+    "static/js/3.e4da1cd8.chunk.js.map": "/static/js/3.e4da1cd8.chunk.js.map",
     "static/js/4.a9cffe09.chunk.js": "/static/js/4.a9cffe09.chunk.js",
     "static/js/4.a9cffe09.chunk.js.map": "/static/js/4.a9cffe09.chunk.js.map",
     "static/js/5.8ddf0b73.chunk.js": "/static/js/5.8ddf0b73.chunk.js",
     "static/js/5.8ddf0b73.chunk.js.map": "/static/js/5.8ddf0b73.chunk.js.map",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/2.de2388d7.chunk.js.LICENSE.txt": "/static/js/2.de2388d7.chunk.js.LICENSE.txt",
-    "static/js/3.147b21fb.chunk.js.LICENSE.txt": "/static/js/3.147b21fb.chunk.js.LICENSE.txt"
+    "static/js/2.d819bd59.chunk.js.LICENSE.txt": "/static/js/2.d819bd59.chunk.js.LICENSE.txt",
+    "static/js/3.e4da1cd8.chunk.js.LICENSE.txt": "/static/js/3.e4da1cd8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.fe264e1c.js",
-    "static/js/2.de2388d7.chunk.js",
+    "static/js/runtime~app.fb27d87d.js",
+    "static/js/2.d819bd59.chunk.js",
     "static/js/app.06a633b0.chunk.js"
   ]
 }
